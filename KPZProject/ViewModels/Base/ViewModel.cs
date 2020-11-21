@@ -21,6 +21,7 @@ namespace KPZProject.ViewModels.Base
             field = value;
             OnPropertyChanged(propertyName);
             return true;
+            
         }
     }
 }
